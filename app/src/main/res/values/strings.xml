@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SEVA</string>
+    <string name="add">Add Contacts</string>
+    <string name="delete">Delete contacts</string>
+    <string name="alarm">Raise Alarm</string>
+    <string name="accept_request">Accept</string>
+    <string name="decline_request">Reject</string>
+    <integer name="is_logged_in">0</integer>
+</resources>
